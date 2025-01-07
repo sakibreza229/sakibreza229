@@ -75,6 +75,15 @@
 </details>
 <!-- ============ STATS AND HIGHLIGHTS END ============ -->
 
+<!-- ============ SUPPORT START ============ -->
+<h2>☕ Support</h2>
+<p>If you appreciate my work and would like to support me, you can:</p>
+<a href="https://www.buymeacoffee.com/sakibreza229" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 160px !important" />
+</a>
+<!-- ============ SUPPORT END ============ -->
+
+<hr />
 
 <!---
 sakibreza229/sakibreza229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
