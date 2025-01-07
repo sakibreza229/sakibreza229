@@ -141,16 +141,16 @@
   <br />
   <p align="center">
     <a href="https://github.com/sakibreza-229/30-Days-30-Projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=converter&theme=tokyonight&hide_border=true" alt="30 Days 30 Projects" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibreza229&repo=svg-typewriter&theme=tokyonight&hide_border=true" alt="30 Days 30 Projects" />
     </a>
     <a href="https://github.com/sakibreza-229/portfolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=converter&theme=tokyonight&hide_border=true" alt="Portfolio Project" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibreza229&repo=comingsoon&theme=tokyonight&hide_border=true" alt="Portfolio Project" />
     </a>
     <a href="https://github.com/sakibreza-229/weather-app">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=converter&theme=tokyonight&hide_border=true" alt="Weather App" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibreza229&repo=comingsoon&theme=tokyonight&hide_border=true" alt="Weather App" />
     </a>
     <a href="https://github.com/sakibreza-229/blog-platform">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=converter&theme=tokyonight&hide_border=true" alt="Blog Platform" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibreza229&repo=comingsoon&theme=tokyonight&hide_border=true" alt="Blog Platform" />
     </a>
   </p>
   <p align="center">
