@@ -78,9 +78,7 @@
 <!-- ============ SUPPORT START ============ -->
 <h2>☕ Support</h2>
 <p>If you appreciate my work and would like to support me, you can:</p>
-<a href="https://www.buymeacoffee.com/sakibreza229" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 160px !important" />
-</a>
+<a href='https://ko-fi.com/M4M416OHP8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <!-- ============ SUPPORT END ============ -->
 
 <hr />
