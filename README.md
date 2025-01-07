@@ -22,6 +22,104 @@
 <p>I am a dedicated full-stack developer passionate about creating efficient and innovative websites and applications. Over time, I have acquired a wide range of skills in various programming languages, frameworks, and tools. I enjoy working on both the dynamic front-end interfaces and the robust back-end solutions. Learning and sharing knowledge is important to me, and I strive to do this as openly as possible. My approach is strategic and goal-oriented, always keeping the end goal in mind. Clean and maintainable code is my focus, and I aim to deliver products that offer both functionality and an excellent user experience, ensuring 100% client satisfaction. I am always open to collaboration and excited to work on challenging projects that push the possible boundaries.</p>
 <!-- ============ ABOUT END ============ -->
 
+<!-- ============ SKILLS START ============ -->
+<h2>🛠️ My Tech Stack</h2>
+<!-- languages -->
+<p>
+  <b>👨‍💻 Languages:</b>
+  <br />
+  <a href="#" title="HTML"><img src="/images/skills_icon/html.png" alt="HTML" /></a>
+  <a href="#" title="CSS"><img src="/images/skills_icon/css.png" alt="CSS" /></a>
+  <a href="#" title="JavaScript"><img src="/images/skills_icon/javascript.png" alt="JavaScript" /></a>
+  <a href="#" title="TypeScript"><img src="/images/skills_icon/typescript.png" alt="TypeScript" /></a>
+  <a href="#" title="Python"><img src="/images/skills_icon/python.png" alt="Python" /></a>
+  <a href="#" title="C"><img src="/images/skills_icon/c.png" alt="C" /></a>
+  <a href="#" title="C++"><img src="/images/skills_icon/cpp.png" alt="C++" /></a>
+  <a href="#" title="Kotlin"><img src="/images/skills_icon/kotlin.png" alt="Kotlin" /></a>
+  <a href="#" title="Bash"><img src="/images/skills_icon/bash.png" alt="Bash" /></a>
+  <a href="#" title="Assembly"><img src="/images/skills_icon/assembly.png" alt="ASM" /></a>
+  <a href="#" title="Prolog"><img src="/images/skills_icon/prolog.png" alt="Prolog" /></a>
+  <a href="#" title="Markdown"><img src="/images/skills_icon/markdown.png" alt="Markdown" /></a>
+  <a href="#" title="LaTex"><img src="/images/skills_icon/latex.png" alt="LaTex" /></a>
+  <a href="#" title="GraphQL"><img src="/images/skills_icon/graphql.png" alt="GraphQL" /></a>
+  <a href="#" title="pHp"><img src="/images/skills_icon/php.png" alt="pHp" /></a>
+  <a href="#" title="SQL"><img src="/images/skills_icon/sql.png" alt="SQL" /></a>
+</p>
+
+<!-- frameworks and libraries -->
+<p>
+  <b>💼 Frameworks and Libraries:</b>
+  <br />
+  <a href="#" title="Tailwind CSS"><img src="/images/skills_icon/tailwindcss.png" alt="Tailwind CSS" /></a>
+  <a href="#" title="Bootstrap"><img src="/images/skills_icon/bootstrap.png" alt="Bootstrap" /></a>
+  <a href="#" title="Sass"><img src="/images/skills_icon/sass.png" alt="Sass" /></a>
+  <a href="#" title="Vite"><img src="/images/skills_icon/vite.png" alt="Vite" /></a>
+  <a href="#" title="Vue"><img src="/images/skills_icon/vue.png" alt="Vue" /></a>
+  <a href="#" title="Angular"><img src="/images/skills_icon/angular.png" alt="Angular" /></a>
+  <a href="#" title="React"><img src="/images/skills_icon/react.png" alt="React" /></a>
+  <a href="#" title="Redux"><img src="/images/skills_icon/redux.png" alt="Redux" /></a>
+  <a href="#" title="Next JS"><img src="/images/skills_icon/nextjs.png" alt="Next JS" /></a>
+  <a href="#" title="Material UI"><img src="/images/skills_icon/materialui.png" alt="Material UI" /></a>
+  <a href="#" title="Framer"><img src="/images/skills_icon/framer.png" alt="Framer" /></a>
+  <a href="#" title="NodeJS"><img src="/images/skills_icon/nodejs.png" alt="NodeJS" /></a>
+  <a href="#" title="ExpressJS"><img src="/images/skills_icon/expressjs.png" alt="ExpressJS" /></a>
+  <a href="#" title="Jest"><img src="/images/skills_icon/jest.png" alt="Jest" /></a>
+  <a href="#" title="Selenium"><img src="/images/skills_icon/selenium.png" alt="Selenium" /></a>
+  <a href="#" title="ElectronJS"><img src="/images/skills_icon/electronjs.png" alt="ElectronJS" /></a>
+  <a href="#" title="React Native"><img src="/images/skills_icon/reactnative.png" alt="React Native" /></a>
+  <a href="#" title="Babel"><img src="/images/skills_icon/babel.png" alt="Babel" /></a>
+  <a href="#" title="Django"><img src="/images/skills_icon/django.png" alt="Django" /></a>
+  <a href="#" title="PyQt"><img src="/images/skills_icon/pyqt.png" alt="PyQt" /></a>
+  <a href="#" title="Kivy"><img src="/images/skills_icon/kivy.png" alt="Kivy" /></a>
+  <a href="#" title="Pandas"><img src="/images/skills_icon/pandas.png" alt="Pandas" /></a>
+  <a href="#" title="PyTorch"><img src="/images/skills_icon/pytorch.png" alt="PyTorch" /></a>
+  <a href="#" title="NumPy"><img src="/images/skills_icon/numpy.png" alt="NumPy" /></a>
+  <a href="#" title="SciPy"><img src="/images/skills_icon/scipy.png" alt="SciPy" /></a>
+  <a href="#" title="PyTest"><img src="/images/skills_icon/pytest.png" alt="PyTest" /></a>
+  <a href="#" title="Arduino"><img src="/images/skills_icon/arduino.png" alt="Arduino" /></a>
+  <a href="#" title="AI Script"><img src="/images/skills_icon/aiscript.png" alt="AI Script" /></a>
+  <a href="#" title="Material Design"><img src="/images/skills_icon/materialdesign.png" alt="Material Design" /></a>
+  <a href="#" title="Apache Cordova"><img src="/images/skills_icon/apachecordova.png" alt="Apache Cordova" /></a>
+  <a href="#" title="Keras"><img src="/images/skills_icon/keras.png" alt="Keras" /></a>
+</p>
+
+<!-- database and hosting -->
+<p>
+  <b>🗄️ DataBase and Hosting:</b>
+  <br />
+  <a href="#" title="MongoDB"><img src="/images/skills_icon/mongodb.png" alt="MongoDB" /></a>
+  <a href="#" title="MySQL"><img src="/images/skills_icon/mysql.png" alt="MySQL" /></a>
+  <a href="#" title="AWS"><img src="/images/skills_icon/aws.png" alt="AWS" /></a>
+  <a href="#" title="Firebase"><img src="/images/skills_icon/firebase.png" alt="Firebase" /></a>
+  <a href="#" title="Replit"><img src="/images/skills_icon/replit.png" alt="Replit" /></a>
+  <a href="#" title="Render"><img src="/images/skills_icon/render.png" alt="Render" /></a>
+  <a href="#" title="Netlify"><img src="/images/skills_icon/netlify.png" alt="Netlify" /></a>
+  <a href="#" title="Vercel"><img src="/images/skills_icon/vercel.png" alt="Vercel" /></a>
+  <a href="#" title="Heroku"><img src="/images/skills_icon/heroku.png" alt="Heroku" /></a>
+</p>
+
+<!-- tools and software -->
+<p>
+  <b>🧩 Tools and Software:</b>
+  <br />
+  <a href="#" title="Git"><img src="/images/skills_icon/git.png" alt="Git" /></a>
+  <a href="#" title="GitHub"><img src="/images/skills_icon/github.png" alt="GitHub" /></a>
+  <a href="#" title="Bitbucket"><img src="/images/skills_icon/bitbucket.png" alt="Bitbucket" /></a>
+  <a href="#" title="Postman"><img src="/images/skills_icon/postman.png" alt="Postman" /></a>
+  <a href="#" title="Docker"><img src="/images/skills_icon/docker.png" alt="Docker" /></a>
+  <a href="#" title="Kubernetes"><img src="/images/skills_icon/kubernetes.png" alt="Kubernetes" /></a>
+  <a href="#" title="GitHub Action"><img src="/images/skills_icon/githubaction.png" alt="GitHub Action" /></a>
+  <a href="#" title="Unity"><img src="/images/skills_icon/unity.png" alt="Unity" /></a>
+  <a href="#" title="VS Code"><img src="/images/skills_icon/vscode.png" alt="VS Code" /></a>
+  <a href="#" title="PyCharm"><img src="/images/skills_icon/pycharm.png" alt="PyCharm" /></a>
+  <a href="#" title="Jupyter"><img src="/images/skills_icon/jupyter.png" alt="Jupyter" /></a>
+  <a href="#" title="Vim"><img src="/images/skills_icon/vim.png" alt="Vim" /></a>
+  <a href="#" title="Android Studio"><img src="/images/skills_icon/androidstudio.png" alt="Android Studio" /></a>
+  <a href="#" title="Figma"><img src="/images/skills_icon/figma.png" alt="Figma" /></a>
+  <a href="#" title="Linux"><img src="/images/skills_icon/linux.png" alt="Linux" /></a>
+</p>
+<!-- ============ SKILLS END ============ -->
+
 <!-- ============ STATS AND HIGHLIGHTS START ============ -->
 <h2>📊 Stats & Highlights</h2>
 <p>Showcasing my coding activity through key statistics and highlights of impactful projects and contributions.</p>
