@@ -1,12 +1,10 @@
 <!-- ============ INTRO START ============ -->
 
 <!-- greeting -->
-<h3>Hello! I'm Sakib Reza 👋</h3>
+<h1>Hello! I'm Sakib Reza 👋</h1>
 
 <!-- tagline -->
-`💻 Crafting Code, Design, and Content Magic! 🚀✨` - `< Fullstack Web & App Developer />`
-
-<hr/>
+```💻 Crafting Code, Design, and Content Magic! 🚀✨``` - ```< Fullstack Web & App Developer />```
 
 <!-- activity -->
 <ul>
@@ -127,6 +125,7 @@
 <!-- github stats -->
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
+  <br />
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sakibreza229&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=9" height="150" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibreza229&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=9" height="150" alt="Top Languages" />
@@ -139,6 +138,7 @@
 <!-- open source projects & contributions -->
 <details>
   <summary><b>🌟 Top Open Source Projects</b></summary>
+  <br />
   <p align="center">
     <a href="https://github.com/sakibreza-229/30-Days-30-Projects">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=converter&theme=tokyonight&hide_border=true" alt="30 Days 30 Projects" />
@@ -161,6 +161,7 @@
 <!-- blogs & articles -->
 <details>
   <summary><b>✒️ Latest Articles</b></summary>
+  <br />
   <ul>
     <li><a href="#">Unlocking the Power of AI</a> - <i>Exploring AI's impact on daily life</i></li>
     <li><a href="#">Mastering Full-Stack Development</a> - <i>Your guide to becoming a full-stack expert</i></li>
@@ -172,6 +173,31 @@
   </ul>
 </details>
 <!-- ============ STATS AND HIGHLIGHTS END ============ -->
+
+<!-- ============ CONTACT START ============ -->
+<h2>🌐 Connect with Me</h2>
+<p>
+  <a title="LinkedIn" href="https://www.linkedin.com/in/sakibreza229/"><img src="/images/social_icon/linkedin.png" alt="LinkedIn" /></a>
+  <a title="X / Twitter" href="https://x.com/sakibreza229"><img src="/images/social_icon/x.png" alt="X" /></a>
+  <a title="FaceBook" href="https://facebook.com/sakibreza229"><img src="/images/social_icon/facebook.png" alt="Facebook" /></a>
+  <a title="Instagram" href="https://www.instagram.com/sakibreza229/"><img src="/images/social_icon/instagram.png" alt="Instagram" /></a>
+  <a title="YouTube" href="https://youtube.com/@sakibreza229"><img src="/images/social_icon/youtube.png" alt="YouTube" /></a>
+  <a title="Leet Code" href="https://leetcode.com/u/sakibreza229/"><img src="/images/social_icon/leetcode.png" alt="LeetCode" /></a>
+  <a title="CodePen" href="https://www.hackerrank.com/profile/sakibreza229"><img src="/images/social_icon/codepen.png" alt="HackerRank" /></a>
+  <a title="Behance" href="https://www.behance.net/sakibreza229"><img src="/images/social_icon/behance.png" alt="Behance" /></a>
+  <a title="Dev Community" href="https://dev.to/sakibreza229"><img src="/images/social_icon/dev_to.png" alt="Dev To" /></a>
+  <a title="Stack Overflow" href="https://stackoverflow.com/users/12345678"><img src="/images/social_icon/stackoverflow.png" alt="Stack Overflow" /></a>
+  <a title="Hashnode" href="https://sakibreza229.hashnode.dev/"><img src="/images/social_icon/hashnode.png" alt="Hashnode" /></a>
+  <a title="WordPress" href="https://sakibreza229.wordpress.com/"><img src="/images/social_icon/wordpress.png" alt="WordPress" /></a>
+  <a title="Discord" href="https://discord.gg/bBSby3HgmS"><img src="/images/social_icon/discord.png" alt="Discord" /></a>
+  <a title="Reddit" href="https://www.reddit.com/user/sakibreza229"><img src="/images/social_icon/reddit.png" alt="Reddit" /></a>
+</p>
+<!-- email -->
+<p>
+  <b>📧 For Business Inquiries:</b>
+  <a href="mailto:sakibreza229@gmail.com"><i>sakibreza229@gmail.com</i></a>
+</p>
+<!-- ============ CONTACT END ============ -->
 
 <!-- ============ SUPPORT START ============ -->
 <h2>☕ Support</h2>
