@@ -2,7 +2,8 @@
 <h1>Hi, I'm Sakib Reza 👋</h1>
 
 <!-- tagline -->
-`💻 Crafting Code, Design, and Content Magic! 🚀✨` - `< Fullstack Web & App Developer />`
+
+`💻 Crafting Code, Design, and Content Magic! 🚀✨` - `<Fullstack Developer/>`
 
 <!-- #### activity start #### -->
 <p>
@@ -48,9 +49,6 @@
   <img src="./images/skill_icons/prolog.png" alt="Prolog" title="Prolog" />
   <img src="./images/skill_icons/markdown.png" alt="Markdown" title="Markdown" />
   <img src="./images/skill_icons/latex.png" alt="LaTeX" title="LaTeX" />
-  <img src="./images/skill_icons/graphql.png" alt="GraphQL" title="GraphQL" />
-  <img src="./images/skill_icons/php.png" alt="PHP" title="PHP" />
-  <img src="./images/skill_icons/sql.png" alt="SQL" title="SQL" />
 </p>
 <!-- #### language end #### -->
 
@@ -61,9 +59,7 @@
   <img src="./images/skill_icons/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="./images/skill_icons/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
   <img src="./images/skill_icons/sass.png" alt="Sass" title="Sass" />
-  <img src="./images/skill_icons/vite.png" alt="Vite" title="Vite" />
   <img src="./images/skill_icons/vue.png" alt="Vue.js" title="Vue.js" />
-  <img src="./images/skill_icons/angular.png" alt="Angular" title="Angular" />
   <img src="./images/skill_icons/react.png" alt="React" title="React" />
   <img src="./images/skill_icons/redux.png" alt="Redux" title="Redux" />
   <img src="./images/skill_icons/nextjs.png" alt="Next.js" title="Next.js" />
@@ -97,6 +93,7 @@
 <p>
   <b>› 🗄️ DataBase and Hosting:</b>
   <br />
+  <img src="./images/skill_icons/sql.png" alt="SQL" title="SQL" />
   <img src="./images/skill_icons/mongodb.png" alt="MongoDB" title="MongoDB" />
   <img src="./images/skill_icons/mysql.png" alt="MySQL" title="MySQL" />
   <img src="./images/skill_icons/aws.png" alt="Amazon Web Services" title="AWS" />
@@ -128,6 +125,7 @@
   <img src="./images/skill_icons/androidstudio.png" alt="Android Studio" title="Android Studio" />
   <img src="./images/skill_icons/figma.png" alt="Figma" title="Figma" />
   <img src="./images/skill_icons/linux.png" alt="Linux" title="Linux" />
+  <img src="./images/skill_icons/vite.png" alt="Vite" title="Vite" />
 </p>
 <!-- #### tools and softwares end #### -->
 <!-- ============ SKILLS END ============ -->
@@ -138,22 +136,16 @@
   Showcasing my coding activity through key statistics and highlights of impactful projects and contributions.
 </p>
 
-<!-- #### github trophies start #### -->
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=sakibreza229&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-<!-- #### github trophies end #### -->
-
 <!-- #### github stats start #### -->
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
   <br />
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sakibreza229&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=9&order=1" height="150" alt="GitHub Statistics" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibreza229&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=9&order=2" height="150" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sakibreza229&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" height="150" alt="GitHub Statistics" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibreza229&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="Most Used Languages" />
   </p>
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibreza229&theme=tokyonight&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibreza229&theme=vue&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
   </p>
   <p>
     <b>Note:</b> The <i>Top Languages</i> metric represents the distribution of languages in my public repositories and does not necessarily indicate my level of experience or proficiency with those languages.
